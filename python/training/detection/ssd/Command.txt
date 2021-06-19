@@ -1,0 +1,3 @@
+python3 detectnet.py --model=$NET./models/{your model path}  --labels=$DATASET./models/{your label path}  --input-blob=input_0 --output-cvg=scores --output-bbox=boxes csi://0    //Only detection
+
+python3 detectnet.py --model=$NET./models/{your model path} --labels=$DATASET./models/{your label path} --input-blob=input_0 --output-cvg=scores --output-bbox=boxes --use_car csi://0      //Detection with car
