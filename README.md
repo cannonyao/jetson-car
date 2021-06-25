@@ -1,5 +1,6 @@
 <Note that this project is based on https://github.com/dusty-nv/jetson-inference>
-
+<Detail tutorial: https://github.com/cannonyao/jetson-car/blob/main/detail.doc>
+<Demo video:https://www.youtube.com/watch?v=JWrtHfbwdeQ>
 ### Introduction:
 
 Control the Jetson Nano-based car by recognizing traffic signs
